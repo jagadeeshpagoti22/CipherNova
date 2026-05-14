@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Enterprise Caesar Cipher Toolkit 🔐
+### Enterprise CipherNova Cipher Toolkit 🔐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Professional+Caesar+Cipher+Toolkit;Smart+Encryption+%26+Guaranteed+Recovery;Enterprise+CLI+Security+Tool" />
 
